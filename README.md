@@ -2,6 +2,9 @@
 
 > 无名杀（Noname）扩展包 —— 朝阳·天赐
 
+**无名杀下载**
+https://github.com/libnoname/noname
+
 ## 📖 简介
 
 天赐扩展为无名杀添加了一名新武将 **朝阳·天赐**（群雄·冯势力），拥有4个技能，定位为play card game型角色。
@@ -110,9 +113,6 @@
 | `冯冯杀1.mp3` | 每轮开始调整 |
 | `辨忠奸1.mp3` | 游戏开始辨忠奸 |
 | `die1.mp3` | 阵亡 |
-
-**无名杀下载**
-https://github.com/libnoname/noname
 
 ## 📝 版本信息
 
