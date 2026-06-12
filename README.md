@@ -111,6 +111,9 @@
 | `辨忠奸1.mp3` | 游戏开始辨忠奸 |
 | `die1.mp3` | 阵亡 |
 
+**无名杀下载**
+https://github.com/libnoname/noname
+
 ## 📝 版本信息
 
 - **版本**：1.0.0
